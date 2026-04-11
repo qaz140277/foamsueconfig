@@ -1,6 +1,6 @@
 {
   "min_version_code": 2,
-  "kill_switch": false, 
+  "kill_switch": true, 
   "update_msg": "请更新版本。",
   "update_url": "https://qm.qq.com/q/Y5Gpng7gaI"
 }
