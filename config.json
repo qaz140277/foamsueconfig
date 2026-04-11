@@ -1,6 +1,6 @@
 {
-  "min_version_code": 1,
-  "kill_switch": true, 
+  "min_version_code": 2,
+  "kill_switch": false, 
   "update_msg": "请更新新版。",
   "update_url": "https://github.com/qaz140277/foamsueconfig"
 }
