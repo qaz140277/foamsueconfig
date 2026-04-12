@@ -1,1 +1,1 @@
-am start -n mark.via/.HomeActivity
+am start -n mark.via/mark.via.Shell
