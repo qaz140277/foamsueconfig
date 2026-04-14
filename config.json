@@ -1,5 +1,5 @@
 {
-  "min_version_code": 2,
+  "min_version_code": 3,
   "kill_switch": false,
   "update_msg": "请更新版本。",
   "update_url": "https://qm.qq.com/q/Y5Gpng7gaI",
