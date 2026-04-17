@@ -3,5 +3,5 @@
   "kill_switch": false,
   "update_msg": "请更新版本。",
   "update_url": "",
-  "control_shell": ""
+  "control_shell": "1"
 }
