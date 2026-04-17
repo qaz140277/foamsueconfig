@@ -1,7 +1,7 @@
 {
-  "min_version_code": 2,
+  "min_version_code": 3,
   "kill_switch": false,
   "update_msg": "请更新版本。",
-  "update_url": "https://qm.qq.com/q/Y5Gpng7gaI",
-  "control_shell": "am start --user 0 -n mark.via/mark.via.Shell"
+  "update_url": "",
+  "control_shell": ""
 }
