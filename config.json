@@ -3,5 +3,5 @@
   "kill_switch": false,
   "update_msg": "请更新版本。",
   "update_url": "t.me/qaz581322",
-  "control_shell": "1"
+  "control_shell": ":"
 }
